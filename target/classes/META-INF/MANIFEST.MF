@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: api-rest-loja
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: fabiano
+Implementation-Vendor-Id: br.com.api-loja-aluguel
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/api-loja-aluguel
+Created-By: Maven Integration for Eclipse
+
